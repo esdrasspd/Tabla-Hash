@@ -1,0 +1,15 @@
+C:\Users\serho\Desktop\Proyectos ASP.NET Core\TableHash\TableHash\bin\Debug\net6.0\TableHash.exe
+C:\Users\serho\Desktop\Proyectos ASP.NET Core\TableHash\TableHash\bin\Debug\net6.0\TableHash.deps.json
+C:\Users\serho\Desktop\Proyectos ASP.NET Core\TableHash\TableHash\bin\Debug\net6.0\TableHash.runtimeconfig.json
+C:\Users\serho\Desktop\Proyectos ASP.NET Core\TableHash\TableHash\bin\Debug\net6.0\TableHash.dll
+C:\Users\serho\Desktop\Proyectos ASP.NET Core\TableHash\TableHash\bin\Debug\net6.0\ref\TableHash.dll
+C:\Users\serho\Desktop\Proyectos ASP.NET Core\TableHash\TableHash\bin\Debug\net6.0\TableHash.pdb
+C:\Users\serho\Desktop\Proyectos ASP.NET Core\TableHash\TableHash\obj\Debug\net6.0\TableHash.csproj.AssemblyReference.cache
+C:\Users\serho\Desktop\Proyectos ASP.NET Core\TableHash\TableHash\obj\Debug\net6.0\TableHash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serho\Desktop\Proyectos ASP.NET Core\TableHash\TableHash\obj\Debug\net6.0\TableHash.AssemblyInfoInputs.cache
+C:\Users\serho\Desktop\Proyectos ASP.NET Core\TableHash\TableHash\obj\Debug\net6.0\TableHash.AssemblyInfo.cs
+C:\Users\serho\Desktop\Proyectos ASP.NET Core\TableHash\TableHash\obj\Debug\net6.0\TableHash.csproj.CoreCompileInputs.cache
+C:\Users\serho\Desktop\Proyectos ASP.NET Core\TableHash\TableHash\obj\Debug\net6.0\TableHash.dll
+C:\Users\serho\Desktop\Proyectos ASP.NET Core\TableHash\TableHash\obj\Debug\net6.0\ref\TableHash.dll
+C:\Users\serho\Desktop\Proyectos ASP.NET Core\TableHash\TableHash\obj\Debug\net6.0\TableHash.pdb
+C:\Users\serho\Desktop\Proyectos ASP.NET Core\TableHash\TableHash\obj\Debug\net6.0\TableHash.genruntimeconfig.cache
